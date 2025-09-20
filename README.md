@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFdDPz7MLT-_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725353865674?e=1753315200&v=beta&t=rpUa7f7G7uK2vqlNMS7nmYHxyNADMTMjKHSKsGBP-lE" align="center" style="width: 100%" />
+<img src="https://drive.google.com/thumbnail?id=1wTtFyEHJR0MWKxJTikEXoL7t1BZ3lwk8&sz=s4000" align="center" style="width: 100%" />
 </div>  
   
 
@@ -94,13 +94,6 @@
 </a> 
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brahmastabagus&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 <div align="center">
